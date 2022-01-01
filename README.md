@@ -1,5 +1,5 @@
 
-![](https://pbs.twimg.com/profile_banners/1445752715234009104/1633530372/600x200)
+![](https://pbs.twimg.com/profile_banners/1445752715234009104/1639498568/1500x500)
 ### Hi,I'm Muhsin Millat 👋 
 <hr></hr>
 👑 Professional Web Design & Developer <br>
@@ -14,7 +14,7 @@ I am Md. Millat Hossain & my Branding Name is Muhsin Millat.I’m a Front End We
 ✅ WordPress & Shopify Expert<br>
 ✅ Elementor<br>
 ✅ PHP<br>
-<b>✅ Creat any type <ul>WordPress & Shopify</ul> Website,And <ul>Wordpress theme Development</ul></b><br>
+<b>✅ Creat any type WordPress & Shopify Website,And Wordpress theme Development</b><br>
 ✅Bootstrap<br>
 ✅ CSS3<br>
 ✅ HTML5 
